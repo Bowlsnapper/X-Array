@@ -13,6 +13,6 @@ There have been various methods for installing activity LEDs in your Xbox, and t
 
 <img src="https://github.com/Bowlsnapper/X-Array/blob/main/X-Array%20Wiring.png" width=49% height=49%>
 
-Below is a Legend for the LEDs. This will tell you what is what. The two on the right are yet to be revealed, as I am sitting on another mod that utilizes these LED, as well as the ones that are in use here. This front panel PCB will be used for both of the mods, since there is no real practical purpose in having two seperate ones.
+Below is a Legend for the LEDs. This will tell you what is what. The two on the right are yet to be revealed, as I am sitting on another mod that utilizes these LEDs, as well as the ones that are in use here. This front panel PCB will be used for both of the mods, since there is no real practical purpose in having two seperate ones.
 
 <img src="https://github.com/Bowlsnapper/X-Array/blob/main/Lighting%20Legend.png" width=49% height=49%>
